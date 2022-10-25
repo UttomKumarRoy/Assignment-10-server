@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const course = require('./data/Course.json');
-//const news = require('./data/news.json');
+const CourseDetails = require('./data/CourseDetails.json');
 
 app.get('/', (req, res) => {
     res.send('News API Running');
@@ -18,11 +18,11 @@ app.get('/course', (req, res) => {
 
 
 
-//app.get('/news/:id', (req, res) => {
-//    const id = req.params.id;
-//    const selectedNews = news.find(n => n._id === id);
-//    res.send(selectedNews);
-//});
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = CourseDetails.find(n => n.cid === id);
+    res.send(selectedCourse);
+});
 
 app.listen(port, () => {
     console.log('Dragon News Server running on port', port);
