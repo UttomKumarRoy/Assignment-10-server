@@ -2,7 +2,7 @@
     {
         "id": "1",
         "cid": "1",
-        "image": "image1.jpg",
+        "image": "../images/c.png",
         "name": "C Programming",
         "description": "It is useful",
         "price": 5000
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "cid": "2",
-        "image": "image1.jpg",
+        "image": "../images/python.png",
         "name": "Python Programming",
         "description": "It is useful",
         "price": 7000
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "cid": "3",
-        "image": "image1.jpg",
+        "image": "../images/c++.png",
         "name": "C++ Programming",
         "description": "It is useful",
         "price": 6000
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "cid": "4",
-        "image": "image1.jpg",
+        "image": "../images/c#.png",
         "name": "C# Programming",
         "description": "It is useful",
         "price": 6500
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "cid": "5",
-        "image": "image1.jpg",
+        "image": "../images/java.png",
         "name": "Java Programming",
         "description": "It is useful",
         "price": 5000
@@ -42,7 +42,7 @@
     {
         "id": "6",
         "cid": "6",
-        "image": "image1.jpg",
+        "image": "../images/javascript.png",
         "name": "JavaScript Programming",
         "description": "It is useful",
         "price": 8000
