@@ -27,3 +27,5 @@ app.get('/course/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Programming Languages Server is running at port:', port);
 })
+
+module.exports = app;
