@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "image1.jpg",
+        "name": "C Programming",
+        "description": "It is useful",
+        "price": 5000
+    },
+    {
+        "id": 2,
+        "image": "image1.jpg",
+        "name": "Python Programming",
+        "description": "It is useful",
+        "price": 7000
+    },
+    {
+        "id": 3,
+        "image": "image1.jpg",
+        "name": "C++ Programming",
+        "description": "It is useful",
+        "price": 6000
+    },
+    {
+        "id": 4,
+        "image": "image1.jpg",
+        "name": "C# Programming",
+        "description": "It is useful",
+        "price": 6500
+    },
+    {
+        "id": 5,
+        "image": "image1.jpg",
+        "name": "Java Programming",
+        "description": "It is useful",
+        "price": 5000
+    },
+    {
+        "id": 6,
+        "image": "image1.jpg",
+        "name": "JavaScript Programming",
+        "description": "It is useful",
+        "price": 8000
+    }
+]
