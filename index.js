@@ -5,22 +5,21 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const course = require('./data/Course.json');
 const CourseDetails = require('./data/CourseDetails.json');
 
 app.get('/', (req, res) => {
-    res.send('News API Running');
+    res.send('Programming Languages Server is Running');
 });
 
 app.get('/course', (req, res) => {
-    res.send(course)
+    res.send(CourseDetails)
 });
 
 
 
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = CourseDetails.find(n => n.cid === id);
+    const selectedCourse = CourseDetails.find(n => n.id === id);
     res.send(selectedCourse);
 });
 

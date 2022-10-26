@@ -1,50 +1,44 @@
 [
     {
         "id": "1",
-        "cid": "1",
         "image": "../images/c.png",
         "name": "C Programming",
-        "description": "It is useful",
+        "description": "C is used for compiler design and OS design. It is low level language.",
         "price": 5000
     },
     {
         "id": "2",
-        "cid": "2",
         "image": "../images/python.png",
         "name": "Python Programming",
-        "description": "It is useful",
+        "description": "Python is used in web development, machine learning, data science and AI.",
         "price": 7000
     },
     {
         "id": "3",
-        "cid": "3",
         "image": "../images/c++.png",
         "name": "C++ Programming",
-        "description": "It is useful",
+        "description": "C++ is used in game development mainly.",
         "price": 6000
     },
     {
         "id": "4",
-        "cid": "4",
         "image": "../images/c#.png",
         "name": "C# Programming",
-        "description": "It is useful",
+        "description": "C# is used in enterprize level application.",
         "price": 6500
     },
     {
         "id": "5",
-        "cid": "5",
         "image": "../images/java.png",
         "name": "Java Programming",
-        "description": "It is useful",
+        "description": "Java is also used in enterprize level application.",
         "price": 5000
     },
     {
         "id": "6",
-        "cid": "6",
         "image": "../images/javascript.png",
         "name": "JavaScript Programming",
-        "description": "It is useful",
+        "description": "JavaScript is used in all most sector of development.",
         "price": 8000
     }
 ]
