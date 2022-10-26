@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "image": "../images/c.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
         "name": "C Programming",
         "description": "C is used for compiler design and OS design. It is low level language.",
         "price": 5000
