@@ -29,14 +29,14 @@
     },
     {
         "id": "5",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+        "image": "https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg",
         "name": "Java Programming",
         "description": "Java is also used in enterprize level application.",
         "price": 5000
     },
     {
         "id": "6",
-        "image": "https://www.kindpng.com/picc/m/171-1718046_javascript-programming-language-logo-hd-png-download.png",
+        "image": "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png",
         "name": "JavaScript Programming",
         "description": "JavaScript is used in all most sector of development.",
         "price": 8000
